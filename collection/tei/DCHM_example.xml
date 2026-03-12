@@ -7,12 +7,12 @@
       <fileDesc>
          <titleStmt>
             <title>DCHM Template</title>
-            <author corresp="#WD">Wout Dillen</author>
-            <principal>Wout Dillen</principal>
+            <author corresp="#ZB">Zoe Bauer</author>
+            <principal>Zoe Bauer</principal>
          </titleStmt>
          <publicationStmt>
             <publisher>University of Borås</publisher>
-            <date>March 2022</date>
+            <date>March 2026</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                   <p>
@@ -22,12 +22,12 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-               <p>A two-sided post-it with a simple example phrase on either side.</p>
+               <p>A corner of an envelope with writing on it.</p>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
          <handNotes>
-            <handNote xml:id="WD" medium="blue-ink">Original text in blue ink, written by Wout Dillen.</handNote>
+            <handNote xml:id="ZB" medium="black-ink">Original text in black ink, written by Zoe Bauer.</handNote>
          </handNotes>
       </profileDesc>
    </teiHeader>
